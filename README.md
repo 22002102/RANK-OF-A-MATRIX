@@ -24,15 +24,18 @@ Step 4:
 Print the result.
 ## Program:
 ```
+Developed by: SANJAY S
+RegisterNumber:212222230132
 import numpy as np
-a=np.array([[3,2,5],[1,1,2],[3,3,6]])
+a=np.array([[1,2,3],[3,6,9]])
 b=np.linalg.matrix_rank(a)
 print(b)
 ```
 ## Output:
 
+![image](https://github.com/22002102/RANK-OF-A-MATRIX/assets/119091638/c71b300e-3e57-4ace-ad90-d121f359373b)
 
-![image](https://github.com/22002102/RANK-OF-A-MATRIX/assets/119091638/ede43206-05de-4d07-91db-74e531396ba9)
+
 
 
 ## Result:
